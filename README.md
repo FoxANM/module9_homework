@@ -60,4 +60,3 @@ JS-объект:
     { name: 'Vova', age: 60, prof: 'pilot' },
   ]
 }
-Удачи!
